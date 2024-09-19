@@ -3,6 +3,8 @@ Python program to convert Legendrian mosaic codes into images.
 
 Usage:
 python to_image <mosaic code>
+
+This material is based upon work supported by the National Science Foundation under Grant No. MPS-2150299
 '''
 import sys,os
 from PIL import Image, ImageDraw
